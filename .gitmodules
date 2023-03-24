@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MDMAPR"]
+	path = MDMAPR
+	url = https://github.com/cran/MDMAPR
+	shallow = true
+	registered = true
